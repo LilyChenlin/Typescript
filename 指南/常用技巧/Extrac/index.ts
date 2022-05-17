@@ -1,0 +1,1 @@
+type Props = Extract<1 | 2 | 3, 1 | 2>; // type Props = 1 | 2
